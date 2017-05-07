@@ -1,0 +1,168 @@
+body{
+    WIDTH: 1200PX;
+    display: block;
+    margin: 0 auto;
+}
+
+.header{
+    width: 100%;
+    background: #3C5A9A;
+    overflow: hidden;
+}
+.header .content{
+    width: 57%;
+    float: left;
+}
+.header .content h1{
+    padding: 0 99px;
+    margin-top: -3px;
+    font-size: 44px;
+    color: #fff;
+    margin-bottom: 0;
+}
+.wrapper{}
+.wrapper ul{
+    padding: 0;
+    margin-top: -1px;
+    margin-bottom: 1px;
+    color: #fff;
+}
+.wrapper ul li{
+    list-style: none;
+    display: inline-block;
+}
+.wrapper ul li form{}
+.wrapper ul li form input{}
+
+.body{}
+.body .content{}
+.body .content h1{}
+.body .content img{}
+.body .form{
+    width: 43%;
+    float: left;
+}
+.body .form h1{
+    margin-top: 20px;
+    font-size: 30px;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+.body .form p{
+    margin: 0;
+    padding: 0;
+    line-height: 2;
+}
+.body .form hr{}
+.body .form ul{padding-bottom: 0;margin-bottom: 0;}
+.body .form ul li{
+    list-style: none;
+    padding: 7px 0;
+}
+.body .form ul li form{
+    display: inline-block;
+}
+.body .form ul li form label{}
+.body .form ul li form input{}
+
+
+.header .content h1{}
+.header .wrapper{
+    width: 43%;
+    float: left;
+}
+.header .wrapper ul{}
+.header .wrapper ul li{}
+.header .wrapper ul li form{}
+.header .wrapper ul li form input{}
+
+.body{
+    width: 100%;
+    overflow: hidden;
+    margin-bottom: 53px;
+}
+.body .content{}
+.body .content h1{}
+.body .content img{}
+.body .content{
+    width: 57%;
+    float: left;
+    box-sizing: border-box;
+    padding-top: 56px;
+}
+.body .content h1{
+    padding: 0 99px;
+    margin-top: -39px;
+    line-height: 1.7;
+    font-size: 27px;
+}
+.body .content p{}
+.body .content hr{}
+.body .content ul{}
+.body .content ul li{}
+.body .content ul li form{}
+.body .content ul li form label{}
+.body .content ul li form input{}
+span{
+    padding: 0px 102px;
+    display: block;
+}
+b {text-transform: inherit;text-align: justify;display: block;margin-bottom: -3px;}
+b a{}
+.body input[type="submit"]{
+
+display: inline-block;
+
+background: #3c5a9a;
+
+border: 0;
+
+color: #fff;
+
+padding: 12px 16px;
+
+font-size: larger;
+
+block-size: 46px;
+
+margin-top: 10px;
+
+box-shadow: 3px 6px 16px #000306;
+}
+
+
+.footer{
+    width: 100%;
+    /* overflow: hidden; */
+}
+.footer .language{}
+.footer .language p{margin-top: 16px;margin-bottom: 0;}
+.footer .language p a{text-decoration: none;}
+
+.footer .copy{
+    width: 100%;
+    overflow: hidden;
+    margin-bottom: 3px;
+}
+.footer .copy .copyright{
+    width: 30%;
+    float: left;
+    margin-top: -3px;
+}
+.footer .copy .copyright p{
+    margin-top: 0;
+}
+.footer .copy .services{
+    width: 70%;
+    float: left;
+    display: block;
+}
+.footer .copy .services p{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+.footer .copy .services p a{
+    text-decoration: none;
+}
+s
